@@ -6,20 +6,23 @@
 <table>
 <tr>
 <th>Sr No.</th>
+<th width="240">Day</th>
 <th width="340">Topic </th>
 <th width="270">Link</th>
-<th width="240">Day</th>
+
 </tr>
 <tr>
 <td>1</td>
+  <th width="240">Day 1</th>
 <th width="340">Arrays </th>
-<th width="270"><a href="./Topics/Arrays>Link</a></th>
-<th width="240">Day 1</th>
+<th width="270"><a href="./Topics/Arrays">Link</a></th>
+
 </tr>
 <tr>
 <td>2</td>
+  <th width="240">Day 1</th>
 <th width="340">Linked Lists (Single) </th>
 <th width="270"><a href="./Topics/LinkedLists">Link</a></th>
-<th width="240">Day 1</th>
+
 </tr>
 </table>

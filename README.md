@@ -8,6 +8,12 @@
 <th>Sr No.</th>
 <th width="340">Topic </th>
 <th width="270">Notes Link</th>
-<th width="270">Code Link</th>
+<th width="240">Code Link</th>
+</tr>
+<tr>
+<td>1</td>
+<th width="340">Arrays </th>
+<th width="270"><a href="./Topics/Arrays/README.md">Link</a></th>
+<th width="240"><a href="./Topics/Arrays/array.cpp">Link</a></th>
 </tr>
 </th>

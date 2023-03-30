@@ -7,19 +7,19 @@
 <tr>
 <th>Sr No.</th>
 <th width="340">Topic </th>
-<th width="270">Notes Link</th>
-<th width="240">Code Link</th>
+<th width="270">Link</th>
+<th width="240">Day</th>
 </tr>
 <tr>
 <td>1</td>
 <th width="340">Arrays </th>
-<th width="270"><a href="./Topics/Arrays/README.md">Link</a></th>
-<th width="240"><a href="./Topics/Arrays/array.cpp">Link</a></th>
+<th width="270"><a href="./Topics/Arrays>Link</a></th>
+<th width="240">Day 1</th>
 </tr>
 <tr>
-<td>1</td>
+<td>2</td>
 <th width="340">Linked Lists (Single) </th>
-<th width="270"><a href="./Topics/Linked-Lists/README.md">Link</a></th>
-<th width="240"><a href="./Topics/Linked-Lists/ll1.cpp">Link</a></th>
+<th width="270"><a href="./Topics/LinkedLists">Link</a></th>
+<th width="240">Day 1</th>
 </tr>
 </table>

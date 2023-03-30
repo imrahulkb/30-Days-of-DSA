@@ -25,4 +25,10 @@
 <th width="270"><a href="./Topics/LinkedLists">Link</a></th>
 
 </tr>
+<td>3</td>
+  <th width="240">Day 1</th>
+<th width="340">Doubly Linked Lists </th>
+<th width="270"><a href="./Topics/DoublyLinkedLists">Link</a></th>
+
+</tr>
 </table>

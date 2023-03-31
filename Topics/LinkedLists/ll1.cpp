@@ -54,10 +54,10 @@ void deleteAtEnd(Node ** head)
 }
 void insertAtBeginning(Node **head, int data)
 {
-    Node * temp = new Node();
-    temp->data=data;
-    temp->next=(*head);
-    (*head)=temp;
+    Node * newnode = new Node();
+    newnode->data=data;
+    newnode->next=(*head);
+    (*head)=newnode;
 }
 int main()
 {
@@ -99,6 +99,5 @@ int main()
             break;
         }
     }
-    
     return 0;
 }

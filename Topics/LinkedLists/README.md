@@ -10,6 +10,34 @@
     </ul> 
 </p>
 
+## Problems Based on Linked List
+<div align="center">
+    <table>
+        <tr>
+            <th>Sr.#</th>
+            <th>Problem</th>
+            <th>Solution</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Find the nth node from the end of the linked list</td>
+            <td><a href="./llproblem1.cpp"></a></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Check whether a linkedlist is NULL-terminated or is cyclic</td>
+            <td><a href="./llproblem2.cpp"></a></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Reverse a linked list</td>
+            <td><a href="./llproblem3.cpp"></a></td>
+        </tr>
+    
+    </table>
+</div>
+
+
 ## Time Complexity
 <div align="center"><table>
     <tr>
@@ -51,3 +79,4 @@
     
 </table>
 </div>
+

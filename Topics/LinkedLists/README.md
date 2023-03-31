@@ -21,19 +21,18 @@
         <tr>
             <td>1</td>
             <td>Find the nth node from the end of the linked list</td>
-            <td><a href="./llproblem1.cpp"></a></td>
+            <td><a href="./llproblem1.cpp">Link</a></td>
         </tr>
         <tr>
             <td>2</td>
             <td>Check whether a linkedlist is NULL-terminated or is cyclic</td>
-            <td><a href="./llproblem2.cpp"></a></td>
+            <td><a href="./llproblem2.cpp">Link</a></td>
         </tr>
         <tr>
             <td>3</td>
             <td>Reverse a linked list</td>
-            <td><a href="./llproblem3.cpp"></a></td>
+            <td><a href="./llproblem3.cpp">Link</a></td>
         </tr>
-    
     </table>
 </div>
 

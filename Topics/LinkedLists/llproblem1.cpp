@@ -50,7 +50,7 @@ int main()
         insertBegin(&head,i*10);
     }
     display(head);
-    FindNth(head,10);
+    findNth(head,10);
 
     return 0;
 }

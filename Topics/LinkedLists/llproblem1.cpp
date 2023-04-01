@@ -22,7 +22,7 @@ void display(Node * head)
         temp=temp->next;
     }
 }
-int FindNth(Node * head,int n)
+int findNth(Node * head,int n)
 {
     Node * first = head;
     n--;

@@ -22,7 +22,7 @@ void display(Node * head)
         temp=temp->next;
     }
 }
-int FindNth(Node * head,int n)
+int findNth(Node * head,int n)
 {
     Node * first = head;
     n--;
@@ -50,7 +50,7 @@ int main()
         insertBegin(&head,i*10);
     }
     display(head);
-    FindNth(head,10);
+    findNth(head,10);
 
     return 0;
 }

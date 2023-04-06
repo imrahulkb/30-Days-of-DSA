@@ -40,5 +40,17 @@
       <td width="340">Problems on Linked Lists </td>
       <td width="270"><a href=".Topics/LinkedLists#problems-based-on-linked-list">Link</a></td>
     </tr>
+     <tr>
+      <td>6</td>
+      <td width="240">Day 3</td>
+      <td width="340">Stack Using Array </td>
+      <td width="270"><a href=".Topics/Stacks/stack1.cpp">Link</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td width="240">Day 4</td>
+      <td width="340">Stack Using Linked List </td>
+      <td width="270"><a href=".Topics/Stacks/stack2.cpp">Link</a></td>
+    </tr>
   </table>
 </div >

@@ -1,5 +1,4 @@
 //implementation of stacjusing array
-
 #include<bits/stdc++.h>
 using namespace std;
 class Stack{

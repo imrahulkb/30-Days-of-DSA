@@ -35,11 +35,24 @@ class Stack{
         newnode->next= head;
         (head)=newnode;
     }
+    void pop(){
+        if(head!=NULL)
+        {
+            Node * temp = head;
+            head=head->next;
+            delete temp;
+        }
+        else head=NULL;
+    }
 };
 int main()
 {
     Stack S1;
     S1.push(20);
+    S1.display();
+    S1.push(10);
+    S1.display();
+    S1.pop();
     S1.display();
     return 0;
 }

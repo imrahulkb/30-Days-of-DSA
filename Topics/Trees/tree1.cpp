@@ -62,6 +62,12 @@ class Node{
             temp->right = temp->right->insert1(_data);
         return temp;
     }
+    int size()
+    {
+        if(this == NULL)
+        return 0;
+        else return (this->left->size()+this->right->size() + 1);
+    }
 };
 class Tree{
     public: 
@@ -87,8 +93,12 @@ class Tree{
         head->preorder();
     } 
     void postorder()
+    
     {
         head->postorder();
+    }
+    int size(){
+       return head->size();
     }
 };
 int main()
@@ -100,6 +110,9 @@ int main()
     T.insert1(300);
     T.insert1(4000);
     T.preorder();
+    cout<<T.size()<<endl;
+    Node * X = NULL;
+    cout<<X->size()<<endl;
     return 0;
 }
 //class Tree is a head handler hence you can create multiple trees using Tree()
